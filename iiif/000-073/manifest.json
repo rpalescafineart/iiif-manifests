@@ -1,0 +1,113 @@
+{
+  "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-073/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Souvenir"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2015"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "graphite mineral"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "19 x 24 in"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-073/canvas/1",
+      "type": "Canvas",
+      "width": 1024,
+      "height": 737,
+      "items": [
+        {
+          "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-073/annopage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-073/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-073/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-073-rpalesca-souvenir%2f000-073-rpalesca-souvenir.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1024,
+                "height": 737,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-073-rpalesca-souvenir%2f000-073-rpalesca-souvenir.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Original drawing by Robyn Palescandolo in her signature expressive realist style. The artwork features a textural graphite study of a driftwood fragment and its reflection."
+    ]
+  }
+}

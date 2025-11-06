@@ -1,0 +1,113 @@
+{
+  "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-031/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Acacia gerrardi Roots"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2023"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "ink drawing material"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "35.6 x 43.2 cm"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-031/canvas/1",
+      "type": "Canvas",
+      "width": 901,
+      "height": 1080,
+      "items": [
+        {
+          "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-031/annopage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-031/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-031/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-031-rpalesca-acacia-gerrardi-roots%2f000-031-rpalesca-acacia-gerrardi-roots.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 901,
+                "height": 1080,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-031-rpalesca-acacia-gerrardi-roots%2f000-031-rpalesca-acacia-gerrardi-roots.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Original scientific botanical illustration by Robyn Palescandolo in her signature realist style. The artwork features Detailed ink drawing of Acacia gerrardii root system with nodules."
+    ]
+  }
+}
