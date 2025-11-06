@@ -1,5 +1,5 @@
 {
-  "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-060/manifest.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-060/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -71,20 +71,20 @@
   ],
   "items": [
     {
-      "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-060/canvas/1",
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-060/canvas/1",
       "type": "Canvas",
       "width": 778,
       "height": 1080,
       "items": [
         {
-          "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-060/annopage/1",
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-060/annopage/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-060/anno/1",
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-060/anno/1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-060/canvas/1",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-060/canvas/1",
               "body": {
                 "id": "https://iiif.archive.org/image/iiif/3/000-060-rpalesca-striga-hermonthica-illustration%2f000-060-rpalesca-striga-hermonthica-illustration.jpg/full/full/0/default.jpg",
                 "type": "Image",

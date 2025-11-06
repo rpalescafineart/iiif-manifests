@@ -1,5 +1,5 @@
 {
-  "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-072/manifest.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-072/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -71,20 +71,20 @@
   ],
   "items": [
     {
-      "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-072/canvas/1",
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-072/canvas/1",
       "type": "Canvas",
       "width": 731,
       "height": 1024,
       "items": [
         {
-          "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-072/annopage/1",
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-072/annopage/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-072/anno/1",
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-072/anno/1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-072/canvas/1",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-072/canvas/1",
               "body": {
                 "id": "https://iiif.archive.org/image/iiif/3/000-072-rpalesca-back-of-a-woman%2f000-072-rpalesca-back-of-a-woman.jpg/full/full/0/default.jpg",
                 "type": "Image",

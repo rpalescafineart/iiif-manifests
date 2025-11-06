@@ -1,5 +1,5 @@
 {
-  "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-003/manifest.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-003/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -71,20 +71,20 @@
   ],
   "items": [
     {
-      "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-003/canvas/1",
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-003/canvas/1",
       "type": "Canvas",
       "width": 1080,
       "height": 1080,
       "items": [
         {
-          "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-003/annopage/1",
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-003/annopage/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-003/anno/1",
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-003/anno/1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://github.com/rpalescafineart/iiif-manifests/iiif/000-003/canvas/1",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif//000-003/canvas/1",
               "body": {
                 "id": "https://iiif.archive.org/image/iiif/2/000-003-rpalesca-pink-heirloom-rose%2F000-003-RPalesca-pink-heirloom-rose.jpg/full/full/0/default.jpg",
                 "type": "Image",
