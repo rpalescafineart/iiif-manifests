@@ -1,0 +1,120 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-074/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "White Ceramic Vase"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-074.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-074/canvas/1",
+      "type": "Canvas",
+      "width": 3318,
+      "height": 2026,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-074/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-074/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-074/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-074-white-ceramic-vase%2f000-074-white-ceramic-vase.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-074-white-ceramic-vase%2f000-074-white-ceramic-vase.png",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2023"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "ceramic"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "7.5 x 4.5 x 4.5 in"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "This tall hand-built ceramic pitcher features an asymmetrical lip and textured horizontal ridges adding a tactile quality to its minimalist form. Coated in a semi-gloss white glaze it strikes a balance between utilitarian function and sculptural elegance. <a href=\"https://skfb.ly/pCUGO\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block",
+          "padding:10px 14px",
+          "border-radius:8px",
+          "text-decoration:none",
+          "border:1px solid #ccc",
+          "\"> View 3D model on Sketchfab </a>"
+        ]
+      }
+    }
+  ]
+}
