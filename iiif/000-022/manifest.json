@@ -1,0 +1,68 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-022/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Lemons in Yellow"
+    ]
+  },
+  "rights": null,
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-022/canvas/1",
+      "type": "Canvas",
+      "width": 1078,
+      "height": 1080,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-022/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-022/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-022/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-022-rpalesca-lemons-in-yellow-1%2f000-022-rpalesca-lemons-in-yellow-1.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1078,
+                "height": 1080,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-022-rpalesca-lemons-in-yellow-1%2f000-022-rpalesca-lemons-in-yellow-1.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-022.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 300,
+      "height": 300
+    }
+  ]
+}
