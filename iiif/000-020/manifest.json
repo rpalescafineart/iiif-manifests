@@ -1,0 +1,121 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-020/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Garlic in Purple"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://iiif.archive.org/image/iiif/3/000-020-rpalesca-garlic-in-purple%2f000-020-rpalesca-garlic-in-purple.jpg/full/300,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2019"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "oil paint (paint)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "50 x 50 cm"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-020/canvas/1",
+      "type": "Canvas",
+      "width": 1080,
+      "height": 1080,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-020/annopage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-020/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-020/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-020-rpalesca-garlic-in-purple%2f000-020-rpalesca-garlic-in-purple.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1080,
+                "height": 1080,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-020-rpalesca-garlic-in-purple%2f000-020-rpalesca-garlic-in-purple.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Original oil painting by Robyn Palescandolo in her signature expressive realist style. The artwork features Clusters of garlic bulbs rest on a folded purple cloth against a dark background."
+    ]
+  }
+}
