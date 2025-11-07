@@ -86,9 +86,9 @@
               "motivation": "painting",
               "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-074/canvas/1",
               "body": {
-                "id": "https://iiif.archive.org/image/iiif/3/000-074-white-ceramic-vase%2f000-074-white-ceramic-vase.png/full/full/0/default.png",
+                "id": "https://iiif.archive.org/image/iiif/3/000-074-white-ceramic-vase%2f000-074-white-ceramic-vase.png/full/full/0/default.jpg",
                 "type": "Image",
-                "format": "image/png",
+                "format": "image/jpeg",
                 "width": 3318,
                 "height": 2026,
                 "service": [
