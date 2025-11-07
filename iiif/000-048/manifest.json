@@ -1,0 +1,114 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-048/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "The Wild Relatives of Rice from the Americas"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "watercolor paint"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "50.0 x 70.0 cm"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-048/canvas/1",
+      "type": "Canvas",
+      "width": 1080,
+      "height": 805,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-048/annopage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-048/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-048/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-048-rpalesca-wild-relatives-of-rice-from-the-americas%2f000-048-rpalesca-wild-relatives-of-rice-from-the-americas.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1080,
+                "height": 805,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-048-rpalesca-wild-relatives-of-rice-from-the-americas%2f000-048-rpalesca-wild-relatives-of-rice-from-the-americas.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Original scientific botanical illustration by Robyn Palescandolo in her signature realist style. The artwork features botanical plate comparing four wild rice relatives with panicles and spikelets labeled with grains below."
+    ]
+  }
+}

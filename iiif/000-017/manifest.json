@@ -1,0 +1,126 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-017/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Mini David"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2020"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "plastic"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "1 x 2 x 2 in"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-017/canvas/1",
+      "type": "Canvas",
+      "width": 3578,
+      "height": 2234,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-017/annopage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-017/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-017/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-017-mini-david%2f000-017-mini-david.png/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3578,
+                "height": 2234,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-017-mini-david%2f000-017-mini-david.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "rendering": [
+        {
+          "id": "https://sketchfab.com/models/ce88ac7132d243769f95b504086e2377/embed",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "en": [
+              "View interactive 3D on Sketchfab"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "This plastic 3D-printed bust is a reproduction of Michelangelo‚Äôs iconic sculpture of David capturing the classical proportions flowing hair and intense expression of the Renaissance masterpiece. The smooth white surface and simplified pedestal emphasize its sculptural presence. <a href=\"https://skfb.ly/pCUFI\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;padding:10px 14px;border-radius:8px;text-decoration:none;border:1px solid #ccc;\"> View 3D model on Sketchfab </a>"
+    ]
+  }
+}
