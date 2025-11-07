@@ -1,0 +1,121 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-033/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Acacia gerrardi Trunk and Leaves"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://iiif.archive.org/image/iiif/3/000-033-rpalesca-acacia-gerrardi-trunk-and-leaves%2f000-033-rpalesca-acacia-gerrardi-trunk-and-leaves.jpg/full/300,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2023"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "ink drawing material"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "35.6 x 43.2 cm"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-033/canvas/1",
+      "type": "Canvas",
+      "width": 899,
+      "height": 1080,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-033/annopage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-033/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-033/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-033-rpalesca-acacia-gerrardi-trunk-and-leaves%2f000-033-rpalesca-acacia-gerrardi-trunk-and-leaves.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 899,
+                "height": 1080,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-033-rpalesca-acacia-gerrardi-trunk-and-leaves%2f000-033-rpalesca-acacia-gerrardi-trunk-and-leaves.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Original scientific botanical illustration by Robyn Palescandolo in her signature realist style. The artwork features Illustration of Acacia gerrardii trunk and compound leaves with textured bark."
+    ]
+  }
+}

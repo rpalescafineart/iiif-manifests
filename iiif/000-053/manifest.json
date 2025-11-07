@@ -1,0 +1,121 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-053/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Pitaya Flower"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://iiif.archive.org/image/iiif/3/000-053-rpalesca-pitaya-flower%2f000-053-rpalesca-pitaya-flower.jpg/full/300,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "ink drawing and writing material"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "35.6 x 43.2 cm"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-053/canvas/1",
+      "type": "Canvas",
+      "width": 1080,
+      "height": 813,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-053/annopage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-053/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-053/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-053-rpalesca-pitaya-flower%2f000-053-rpalesca-pitaya-flower.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1080,
+                "height": 813,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-053-rpalesca-pitaya-flower%2f000-053-rpalesca-pitaya-flower.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Original scientific botanical illustration by Robyn Palescandolo in her signature realist style. The artwork features stippled ink study of a night-blooming pitaya flower attached to climbing stem."
+    ]
+  }
+}
