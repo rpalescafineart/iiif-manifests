@@ -87,14 +87,14 @@
               "motivation": "painting",
               "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-014/canvas/1",
               "body": {
-                "id": "https://iiif.archive.org/image/iiif/3/000-014-rpalesca-fading-garden-rose-1080/000-014-RPalesca-fading-garden-rose-1080.jpg/full/max/0/default.jpg",
+                "id": "https://iiif.archive.org/image/iiif/3/000-014-rpalesca-fading-garden-rose-1080%2f000-014-RPalesca-fading-garden-rose-1080.jpg/full/max/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 1080,
                 "height": 1080,
                 "service": [
                   {
-                    "id": "https://iiif.archive.org/image/iiif/3/000-014-rpalesca-fading-garden-rose-1080/000-014-RPalesca-fading-garden-rose-1080.jpg",
+                    "id": "https://iiif.archive.org/image/iiif/3/000-014-rpalesca-fading-garden-rose-1080%2f000-014-RPalesca-fading-garden-rose-1080.jpg",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
