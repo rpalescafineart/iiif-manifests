@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-049/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Oryza coarctata Illustration"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "thumbnail": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-049.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-049/canvas/1",
+      "type": "Canvas",
+      "width": 890,
+      "height": 1080,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-049/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-049/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-049/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-049-rpalesca-oryza-coarctata-illustration%2f000-049-rpalesca-oryza-coarctata-illustration.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-049-rpalesca-oryza-coarctata-illustration%2f000-049-rpalesca-oryza-coarctata-illustration.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-049.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "watercolor paint"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "50.0 x 70.0 cm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+        ]
+      }
+    }
+  ]
+}

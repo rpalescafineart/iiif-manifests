@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-031/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Acacia gerrardi Roots"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "thumbnail": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-031.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-031/canvas/1",
+      "type": "Canvas",
+      "width": 901,
+      "height": 1080,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-031/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-031/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-031/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-031-rpalesca-acacia-gerrardi-roots%2f000-031-rpalesca-acacia-gerrardi-roots.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-031-rpalesca-acacia-gerrardi-roots%2f000-031-rpalesca-acacia-gerrardi-roots.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-031.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2023"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "ink drawing material"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "35.6 x 43.2 cm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-021/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Jeddah Sands"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "thumbnail": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-021.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-021/canvas/1",
+      "type": "Canvas",
+      "width": 1080,
+      "height": 989,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-021/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-021/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-021/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-021-rpalesca-jeddah-sands%2f000-021-rpalesca-jeddah-sands.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-021-rpalesca-jeddah-sands%2f000-021-rpalesca-jeddah-sands.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-021.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2020"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "oil paint (paint)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "101 x 152 cm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+        ]
+      }
+    }
+  ]
+}

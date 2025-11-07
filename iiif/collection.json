@@ -1,0 +1,1344 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/collection.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Collection"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-001/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Garden Lemons"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-001.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-002/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Garden Oranges"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-002.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-003/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pink Heirloom Rose"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-003.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-004/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White Garden Rose"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-004.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-005/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bouquet: White Winter Peonies"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-005.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-006/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Yellow Heirloom Rose"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-006.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-007/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Autumn"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-007.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-008/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Portrait of a Girl"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-008.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-009/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fuscsia Ballet"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-009.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-010/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Introspection"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-010.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-011/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Specimen 1"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-011.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-012/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Portrait of Damiano"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-012.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-013/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Portrait of Isabella"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-013.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-014/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fading Garden Rose"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.archive.org/image/iiif/3/000-014-rpalesca-fading-garden-rose-1080%2f000-014-RPalesca-fading-garden-rose-1080.jpg/full/300,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-015/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Peach Garden Rose"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-015.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-016/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Blue Ceramic Vase"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-016.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-017/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mini David"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-017.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-018/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Wooden Frog"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-018.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-019/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Blue Draped Affection"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-019.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-020/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Garlic in Purple"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-020.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-021/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Jeddah Sands"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-021.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-022/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Lemons in Yellow"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-022.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-023/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Onions in Red"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-023.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-024/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Portrait of Teddy"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-024.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-025/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "This Eye"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-025.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-026/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "View from a Paris Window"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-026.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-027/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Footbridge in Boston Common"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-027.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-028/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Victory of Samothrace"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-028.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-029/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Paris Fountain"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-029.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-030/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Acacia gerrardi Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-030.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-031/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Acacia gerrardi Roots"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-031.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-032/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Acacia gerrardi Seed Pods and Flowers"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-032.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-033/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Acacia gerrardi Trunk and Leaves"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-033.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-034/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Aegilops tauschii Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-034.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-035/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Aegilops tauschii Glume and Seed"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-035.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-036/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Aegilops tauschii Spike and Stem"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-036.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-037/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Arabidopsis thaliana Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-037.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-038/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Arabidopsis thaliana Flower and Seed"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-038.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-039/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Arabidopsis thaliana Seedling"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-039.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-040/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Arabidopsis thaliana Stem"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-040.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-041/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Distichlis palmeri Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-041.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-042/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Distichlis palmeri Female"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-042.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-043/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Distichlis palmeri Male"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-043.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-044/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Distichlis spicata Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-044.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-045/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Haloxylon salicornicum Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-045.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-046/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Haloxylon salicornicum Galls and Flowers"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-046.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-047/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Haloxylon salicornicum Plant"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-047.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-048/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Wild Relatives of Rice from the Americas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-048.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-049/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Oryza coarctata Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-049.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-050/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Oryza coarctata Elements"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-050.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-051/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pitaya Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-051.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-052/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pitaya Cactus"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-052.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-053/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pitaya Flower"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-053.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-054/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pitaya Fruit Cross Section"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-054.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-055/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Salicornia persica iranica Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-055.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-056/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Salicornia persica iranica flowering"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-056.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-057/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Salicornia persica iranica nodes"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-057.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-058/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Salicornia persica iranica seed"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-058.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-059/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Saltgrass Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-059.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-060/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Striga hermonthica Illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-060.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-061/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Striga hermonthica Flower"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-061.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-062/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Striga hermonthica Seed Pod and Seeds"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-062.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-063/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Striga hermonthica Seedling"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-063.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-065/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Triticum monococcum illustration"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-065.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-066/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Triticum monococcum domesticated spikes"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-066.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-067/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Triticum monococcum wild spikes"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-067.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-068/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "2 Mangoes"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-068.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-069/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ruin of a Castle"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-069.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-070/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Graphic Eilandje"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-070.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-071/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Graphic Orchids"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-071.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-072/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Back of a Woman"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-072.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-073/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Souvenir"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-073.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-074/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White Ceramic Vase"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-074.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    },
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-075/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White Rose in a Lavender Haze"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/thumbs/000-075.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 300
+        }
+      ]
+    }
+  ]
+}
