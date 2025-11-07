@@ -1,4 +1,5 @@
 {
+  "@context": "https://iiif.io/api/presentation/3/context.json",
   "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-074/manifest.json",
   "type": "Manifest",
   "label": {
