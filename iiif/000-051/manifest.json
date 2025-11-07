@@ -1,0 +1,114 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-051/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Pitaya Illustration"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ]
+    },
+    "value": {
+      "en": [
+        "© 2025 Robyn Palescandolo. All rights reserved. No reuse without written permission."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Robyn Palescandolo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2022"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "watercolor paint"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "en": [
+          "50.0 x 70.0 cm"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-051/canvas/1",
+      "type": "Canvas",
+      "width": 914,
+      "height": 1080,
+      "items": [
+        {
+          "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-051/annopage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-051/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://rpalescafineart.github.io/iiif-manifests/iiif/000-051/canvas/1",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/3/000-051-rpalesca-pitaya-illustration%2f000-051-rpalesca-pitaya-illustration.jpg/full/!2000,2000/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 914,
+                "height": 1080,
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/000-051-rpalesca-pitaya-illustration%2f000-051-rpalesca-pitaya-illustration.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Original scientific botanical illustration by Robyn Palescandolo in her signature realist style. The artwork features botanical study of pitaya with blooming flower ribbed stem ripe fruit and cross-section."
+    ]
+  }
+}
