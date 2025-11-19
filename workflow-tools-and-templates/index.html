@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Workflow Tools and Templates</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      line-height: 1.5;
+      color: #222;
+      background: #fafafa;
+    }
+    h1 {
+      font-size: 1.9rem;
+      margin-bottom: 0.25rem;
+    }
+    h2 {
+      margin-top: 2rem;
+      font-size: 1.3rem;
+    }
+    p {
+      margin: 0.5rem 0 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 0.75rem;
+      background: #fff;
+    }
+    th, td {
+      padding: 0.5rem 0.75rem;
+      border-bottom: 1px solid #ddd;
+      vertical-align: top;
+    }
+    th {
+      text-align: left;
+      background: #f0f0f0;
+      font-weight: 600;
+    }
+    tr:last-child td {
+      border-bottom: none;
+    }
+    a {
+      color: #0b61a4;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    code {
+      background: #f4f4f4;
+      padding: 0.1rem 0.25rem;
+      border-radius: 3px;
+      font-size: 0.95em;
+    }
+    footer {
+      margin-top: 3rem;
+      font-size: 0.85rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Workflow Tools and Templates</h1>
+    <p>
+      This directory contains the scripts and templates used to generate and publish
+      IIIF manifests for the RPalesca Fine Art digital archive workflow.
+      All files below can be viewed or downloaded directly.
+    </p>
+    <p>
+      To download a file, right-click the link and choose
+      <em>&ldquo;Save link as&hellip;&rdquo;</em> (or similar in your browser).
+    </p>
+  </header>
+
+  <section>
+    <h2>Metadata Templates</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>File</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Update these rows to match your actual files -->
+        <tr>
+          <td><a href="collection-template.csv" download>collection-template.csv</a></td>
+          <td>CSV template for preparing collection metadata prior to manifest generation.</td>
+        </tr>
+        <tr>
+          <td><a href="iiif-prep-template.csv" download>iiif-prep-template.csv</a></td>
+          <td>IIIF-ready CSV template that includes image URLs, thumbnail paths, and rights metadata.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Python Scripts</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>File</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Update filenames / descriptions as needed -->
+        <tr>
+          <td><a href="generate-thumbs.py" download>generate-thumbs.py</a></td>
+          <td>Generates thumbnails for each artwork image, used in manifests and viewers.</td>
+        </tr>
+        <tr>
+          <td><a href="make_manifests_with_thumbs.py" download>make_manifests_with_thumbs.py</a></td>
+          <td>Reads a metadata CSV and creates IIIF Presentation v3 manifest JSON files and folder structure.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Documentation &amp; Examples</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>File</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Optional: add documentation or example files here -->
+        <tr>
+          <td><a href="README.md">README.md</a></td>
+          <td>Text documentation describing how to use these tools and templates.</td>
+        </tr>
+        <tr>
+          <td><a href="sample-manifest.json" download>sample-manifest.json</a></td>
+          <td>Example IIIF manifest file demonstrating the expected output structure.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <footer>
+    <p>
+      For more information about this project, visit the main repository:
+      <a href="https://github.com/rpalescafineart/iiif-manifests">
+        rpalescafineart/iiif-manifests
+      </a>.
+    </p>
+  </footer>
+</body>
+</html>
