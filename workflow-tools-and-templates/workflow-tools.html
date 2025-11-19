@@ -1,0 +1,59 @@
+# Workflow Tools and Templates  
+_A companion toolkit for the IIIF Manifests Workflow_
+
+This folder contains all supporting materials used to generate, validate, and publish IIIF Presentation v3 manifests for the RPalesca Fine Art digital archive project. It includes templates, scripts, and reference files designed to streamline metadata preparation, image processing, and manifest generation.
+
+---
+
+## 📁 Contents
+
+### **1. Metadata Templates**
+- **AA-Export-Template.csv**  
+  A cleaned and structured template used to prepare metadata exported from Artwork Archive for manifest generation. Includes all required and optional IIIF fields mapped to source fields.
+
+- **Collection-CSV-Template.csv**  
+  A standardized CSV structure for preparing new or updated collection records prior to running the manifest generation script.
+
+---
+
+### **2. Python Scripts**
+- **generate_thumbnails.py**  
+  Creates IIIF-compliant thumbnails for each item using standardized sizing rules.
+
+- **generate_manifests.py**  
+  Uses the completed metadata CSV to create IIIF Presentation v3 manifests and associated folder structure.
+
+- **utilities.py**  
+  Shared helper functions used across scripts (file handling, path normalization, image verification, etc.).
+
+---
+
+### **3. Folder Structure Templates**
+- **Getty-Style-Folder-Structure.zip**  
+  A recommended directory structure based on Getty Conservation Institute guidelines, including naming examples.
+
+- **Sample-Manifests/**  
+  Example JSON manifests demonstrating correct formatting and structure.
+
+---
+
+### **4. Documentation**
+- **Workflow-Overview.pdf**  
+  A high-level summary of the complete digitization and manifest pipeline.
+
+- **Environment-Setup.md**  
+  Required dependencies, installation instructions, and environment configuration for running scripts.
+
+---
+
+## 🧭 How to Use This Folder
+
+1. **Start with the CSV templates** to populate your artwork metadata.  
+2. Run **generate_thumbnails.py** to create standardized preview images.  
+3. Prepare your final CSV and run **generate_manifests.py** to output manifests.  
+4. Review sample manifests and structure to ensure compliance.  
+5. Host the outputs (images + manifests) on your preferred IIIF-compliant platform.
+
+---
+
+If you need updates, expanded documentation, or integration examples, feel free to open an issue or request additional files.
